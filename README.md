@@ -1,8 +1,8 @@
-Student Registration System
+                        Student Registration System
 
 Overview
 
-A simple web application for user registration and profile management using Spring.
+     A simple web application for user registration and profile management using Spring.
 
 Features
 
